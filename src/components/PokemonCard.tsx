@@ -1,7 +1,4 @@
 const PokemonCard = ({ pokemon }) => {
-  //   console.log(props);
-
-  //   const pokemon = { name: "mew", imgSrc: null };
 
   return (
     <>

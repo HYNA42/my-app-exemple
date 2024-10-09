@@ -32,7 +32,6 @@ function App() {
     },
   ];
 
-
   return (
     <div>
       <PokemonCard pokemon={pokemonList[pokemonIndex]} />
